@@ -1,0 +1,16 @@
+package com.hike.stealth.controller;
+
+public class HttpRequestController {
+
+	public String sleepAndGetStatus(){
+		
+	}
+	
+	public String getServerStatus(){
+		
+	}
+	
+	public String killConnection(){
+		
+	}
+}

@@ -1,0 +1,67 @@
+package com.hike.stealth.service.impl;
+
+import java.util.Map;
+
+import com.hike.stealth.pojo.ThreadInfo;
+import com.hike.stealth.service.IStealthDataService;
+import com.hike.stealth.service.IStealthService;
+
+
+public class StealthService implements IStealthService{
+
+	private IStealthDataService stealthDataService = StealthDataService.getInstance();
+    
+	/**
+	 * This will sleep current thread 
+	 */
+	@Override
+	public String sleepAndGet(Integer timeout, Integer connectionId) {
+		try {
+			ThreadInfo threadInfo = getStealthDataService().getDataByConnectionId(connectionId);
+			
+			if(threadInfo!=null){
+				return "{\"stat\":\"Connection Already Present with this ConnectionId \"}";
+			}
+		    getStealthDataService().saveData(connectionId, new ThreadInfo(System.currentTimeMillis(), Thread.currentThread()));
+		    System.out.println(Thread.currentThread().getId());
+		    Thread.sleep(timeout*1000);
+		} catch (InterruptedException e) {
+			System.out.println("Thread got interrupted with id " + Thread.currentThread().getId() + " " + e.getMessage());
+			return "{\"stat\":\"Killed \"}";
+		}finally{
+			getStealthDataService().removeData(connectionId);	
+		}
+		return "{\"stat\":\"ok\"}";
+	}
+
+	@Override
+	public String getServerStatus() {
+		StringBuilder builder = new StringBuilder("{");
+		Map<Integer, ThreadInfo> connectionsInfo = stealthDataService.getAllConnectionData();
+		if(connectionsInfo!=null && connectionsInfo.size()>0){
+			builder.append("[");
+			Long currentTime = System.currentTimeMillis();
+			for(Map.Entry<Integer, ThreadInfo> entry : connectionsInfo.entrySet()){
+				
+			}
+			builder.append("]");
+		}
+		builder.append("}");
+		return null;
+	}
+
+	@Override
+	public String kill(Integer connectionId) {
+		ThreadInfo threadInfo = getStealthDataService().getDataByConnectionId(connectionId);
+		if(threadInfo == null){
+			return "{\"stat\":\"No Connection Present with this Connection Id \"}";
+		}
+		threadInfo.getThread().interrupt();
+		return "{\"stat\":\"ok\"}";
+	}
+
+	public IStealthDataService getStealthDataService() {
+		return stealthDataService;
+	}
+
+}

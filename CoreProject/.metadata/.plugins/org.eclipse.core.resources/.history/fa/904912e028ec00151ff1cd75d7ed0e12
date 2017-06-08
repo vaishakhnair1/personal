@@ -1,0 +1,69 @@
+package com.hike.stealth.core;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.Socket;
+import java.util.Date;
+
+public class HttpRequestProcessor implements Runnable{
+
+	private Socket socket;
+	
+	public HttpRequestProcessor(Socket socket){
+		this.socket = socket;
+	}
+	
+	public void run() {
+		InputStreamReader isr = null;;
+		BufferedReader reader = null;
+		try {
+			isr = new InputStreamReader(socket.getInputStream());
+			reader = new BufferedReader(isr); 
+			String result = parseAndReturnResult(reader);
+			Date today = new Date(); 
+			String httpResponse = "HTTP/1.1 200 OK\r\n\r\n" + today; 
+			httpResponse = httpResponse + "Content-Type: application/json\r\n\r\n";
+			httpResponse = httpResponse + "Content-Length: " + result.length() + "\r\n\r\n";
+			httpResponse = httpResponse + httpResponse;
+			socket.getOutputStream().write(httpResponse.getBytes("UTF-8"));
+			
+		} catch (IOException e) {
+			System.out.println(e);
+		}  finally{
+			try {
+				reader.close();
+				isr.close();
+				socket.close();
+			} catch (IOException e) {
+				System.out.println(e);
+			}
+			
+		}
+	}
+	
+	private String parseAndReturnResult(BufferedReader reader){
+		String line;
+		int i=0;
+		try {
+			line = reader.readLine();
+			while (!line.isEmpty()) { 
+				System.out.println(line); 
+				line = reader.readLine();
+				if(i == 0){
+					if(line.contains("GET")){
+						
+					}else if(line.contains("POST")){
+						
+					}else{
+						return "{\"stat\":\"Invalid Http Method\"}";
+					}	
+				}
+			}
+		} catch (IOException e) {
+			System.out.println(e);
+		}
+		return "";
+	}
+
+}

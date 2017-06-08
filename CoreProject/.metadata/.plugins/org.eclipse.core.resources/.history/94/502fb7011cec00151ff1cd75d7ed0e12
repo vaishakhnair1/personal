@@ -1,0 +1,30 @@
+package com.hike.stealth.controller;
+
+/**
+ * This controller is singleton in behaviour
+ * Multiple threads will access same object
+ * @author shrey
+ *
+ */
+public class HttpRequestController {
+    
+	private static final HttpRequestController controller = new HttpRequestController();
+	
+	private HttpRequestController(){}
+	
+	public static HttpRequestController getInstance(){
+	  return controller;	
+	}
+	
+	public String sleepAndGetStatus(){
+		return "";
+	}
+	
+	public String getServerStatus(){
+		return "";
+	}
+	
+	public String killConnection(){
+		return "";
+	}
+}

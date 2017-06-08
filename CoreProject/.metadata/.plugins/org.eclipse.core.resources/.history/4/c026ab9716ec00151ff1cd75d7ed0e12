@@ -1,0 +1,29 @@
+package com.hike.stealth.core;
+
+import java.io.IOException;
+import java.net.ServerSocket;
+import java.net.Socket;
+
+public class HttpSocket {
+
+	private static final Integer PORT_NUMBER = 8080;
+	
+	public void openSocketForAcceptingRequest(){
+	
+		ServerSocket myService = null;
+	    try {
+	       myService = new ServerSocket(PORT_NUMBER);
+	    }catch (IOException e) {
+	       System.out.println(e);
+	    }
+	    
+	    while(true){
+	    	try {
+				final Socket client = myService.accept();
+				
+			} catch (IOException e) {
+				System.out.println(e);
+			}
+	    }
+	}
+}

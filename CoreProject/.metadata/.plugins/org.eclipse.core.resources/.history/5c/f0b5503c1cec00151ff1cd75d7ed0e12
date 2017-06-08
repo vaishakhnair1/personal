@@ -1,0 +1,5 @@
+package com.hike.stealth.request;
+
+public class HttpServletRequest {
+
+}

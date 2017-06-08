@@ -1,0 +1,26 @@
+package com.hike.stealth.core;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.Socket;
+import java.util.Date;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+public class HttpConnectionPool {
+
+	private static final Integer NO_OF_THREADS = 100;
+	private static final ExecutorService executor = Executors.newFixedThreadPool(NO_OF_THREADS);
+	private static final HttpConnectionPool httpConnectionPool = new HttpConnectionPool();
+	
+	private HttpConnectionPool(){}
+	
+	public static HttpConnectionPool getInstance(){
+		return httpConnectionPool;
+	}
+	
+	public void submitConnection(Socket socket){
+		executor.submit(new HttpRequestProcessor(socket));
+	}
+}

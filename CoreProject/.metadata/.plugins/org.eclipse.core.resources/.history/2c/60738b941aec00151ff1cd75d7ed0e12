@@ -1,0 +1,11 @@
+package com.hike.stealth.service;
+
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+
+public class StealthDataService {
+
+	private static final Map<Integer, Long> connectionDataMap = new ConcurrentHashMap<Integer, Long>();
+	
+	
+}

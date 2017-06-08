@@ -1,0 +1,22 @@
+package com.hike.stealth.pojo;
+
+public class ThreadInfo {
+
+	private Long currentTime;
+	private Thread thread;
+	
+	public ThreadInfo(Long currentTime, Thread thread){
+		this.currentTime = currentTime;
+		this.thread = thread;
+	}
+
+	public Long getCurrentTime() {
+		return currentTime;
+	}
+
+	public Thread getThread() {
+		return thread;
+	}
+	
+}
+

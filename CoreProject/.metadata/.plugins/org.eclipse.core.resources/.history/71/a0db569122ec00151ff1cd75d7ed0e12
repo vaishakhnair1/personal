@@ -1,0 +1,16 @@
+package com.hike.stealth.service;
+
+import java.util.Map;
+
+import com.hike.stealth.pojo.ThreadInfo;
+
+public interface IStealthDataService {
+
+	public void saveData(Integer connectionId, ThreadInfo threadInfo);
+	
+	public void removeData(Integer connectionId);
+	
+	public Long getDataByConnectionId(Integer connectionId);
+	
+	public Map<Integer, ThreadInfo> getAllConnectionData();
+}

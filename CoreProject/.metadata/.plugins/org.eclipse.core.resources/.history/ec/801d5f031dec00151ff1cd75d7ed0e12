@@ -1,0 +1,42 @@
+package com.hike.stealth.controller;
+
+import com.hike.stealth.request.HttpServletRequest;
+import com.hike.stealth.service.IStealthService;
+import com.hike.stealth.service.impl.StealthService;
+
+/**
+ * This controller is singleton in behaviour
+ * Multiple threads will access same object
+ * @author shrey
+ *
+ */
+public class HttpRequestController {
+    
+	private static final HttpRequestController controller = new HttpRequestController();
+	
+	private HttpRequestController(){}
+	
+	public static HttpRequestController getInstance(){
+	  return controller;	
+	}
+	
+	public String sleepAndGetStatus(HttpServletRequest request){
+		//Validation of params
+		Integer timeout = (Integer)request.getValueByParamName("timeout");
+		if(timeout == null){
+			return "{\"stat\":\"Invalid Timeout Param\"}";
+		}
+		IStealthService stealthService = new StealthService();
+		return stealthService.sleepAndGet(, );
+	}
+	
+	public String getServerStatus(HttpServletRequest request){
+		IStealthService stealthService = new StealthService();
+		return stealthService.getServerStatus();
+	}
+	
+	public String killConnection(HttpServletRequest request){
+		IStealthService stealthService = new StealthService();
+		return stealthService.kill();
+	}
+}

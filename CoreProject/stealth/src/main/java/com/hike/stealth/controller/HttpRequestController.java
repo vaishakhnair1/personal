@@ -1,0 +1,60 @@
+package com.hike.stealth.controller;
+
+import com.hike.stealth.request.HttpServletRequest;
+import com.hike.stealth.service.IStealthService;
+import com.hike.stealth.service.impl.StealthService;
+
+/**
+ * This controller is singleton in behaviour Multiple threads will access same
+ * object
+ * 
+ * @author shrey
+ * 
+ */
+public class HttpRequestController {
+
+	private static final HttpRequestController controller = new HttpRequestController();
+
+	private HttpRequestController() {
+	}
+
+	public static HttpRequestController getInstance() {
+		return controller;
+	}
+
+	public String sleepAndGetStatus(HttpServletRequest request) {
+		try {
+			// Validation of params
+			Object timeout = request.getValueByParamName("timeout");
+			if (timeout == null) {
+				return "{\"stat\":\"Invalid Timeout Param\"}";
+			}
+			Object connectionId = request.getValueByParamName("connid");
+			if (connectionId == null) {
+				return "{\"stat\":\"Invalid Connection Id\"}";
+			}
+			IStealthService stealthService = new StealthService();
+			return stealthService.sleepAndGet(Integer.parseInt(timeout.toString().trim()), Integer.parseInt(connectionId.toString().trim()));
+		} catch (Exception e) {
+			return "{\"stat\":\"fail\"}";
+		}
+	}
+
+	public String getServerStatus() {
+		IStealthService stealthService = new StealthService();
+		return stealthService.getServerStatus();
+	}
+
+	public String killConnection(HttpServletRequest request) {
+		try {
+			Object connectionId = request.getValueByParamName("connid");
+			if (connectionId == null) {
+				return "{\"stat\":\"Invalid Connection Id\"}";
+			}
+			IStealthService stealthService = new StealthService();
+			return stealthService.kill(Integer.parseInt(connectionId.toString().trim()));
+		} catch (Exception e) {
+			return "{\"stat\":\"fail\"}";
+		}
+	}
+}

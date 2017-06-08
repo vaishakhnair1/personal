@@ -1,0 +1,11 @@
+package com.hike.stealth.core;
+
+public class HttpSocket {
+
+	private static final Integer PORT_NUMBER = 8080;
+	
+	public void openSocketForAcceptingRequest(){
+	
+		
+	}
+}

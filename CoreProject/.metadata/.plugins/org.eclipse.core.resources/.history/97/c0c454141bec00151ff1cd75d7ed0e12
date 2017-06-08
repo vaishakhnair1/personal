@@ -1,0 +1,5 @@
+package com.hike.stealth.controller;
+
+public class HttpRequestController {
+
+}

@@ -1,0 +1,18 @@
+package com.hike.stealth;
+
+import com.hike.stealth.service.impl.StealthService;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        
+        StealthService stealthService = new StealthService();
+        
+    }
+}

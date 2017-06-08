@@ -1,0 +1,1051 @@
+2016-03-17 13:08:19,098 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/shrey/Documents/Hike/hike-stealth/pom.xml
+2016-03-17 13:08:19,938 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hike:hike-stealth:0.0.1-SNAPSHOT @ /Users/shrey/Documents/Hike/hike-stealth/pom.xml.
+2016-03-17 13:08:20,786 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hike-stealth/src/main/java
+2016-03-17 13:08:20,789 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hike-stealth/src/test/java
+2016-03-17 13:08:21,265 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 2 sec
+2016-03-17 13:08:21,842 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hike:hike-stealth:0.0.1-SNAPSHOT @ /Users/shrey/Documents/Hike/hike-stealth/pom.xml.
+2016-03-17 13:08:21,879 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hike:hike-stealth:0.0.1-SNAPSHOT @ /Users/shrey/Documents/Hike/hike-stealth/pom.xml.
+2016-03-17 13:08:21,969 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:08:21,969 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:08:21,972 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:08:21,973 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:08:23,037 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hike:hike-stealth:0.0.1-SNAPSHOT @ /Users/shrey/Documents/Hike/hike-stealth/pom.xml.
+2016-03-17 13:08:23,196 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:08:23,197 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:08:23,199 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:08:23,199 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:08:42,416 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2016-03-17 13:08:42,448 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:62035
+2016-03-17 13:09:08,194 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:09:08,195 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:09:08,197 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:09:08,197 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:09:14,027 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:09:14,027 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:09:14,029 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:09:14,029 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:09:31,584 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:09:31,584 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:09:31,585 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:09:31,585 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:11:11,815 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:11:11,815 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:11:11,816 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:11:11,816 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:11:12,844 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:11:12,845 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:11:12,846 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:11:12,846 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:11:41,330 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:11:41,330 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:11:41,332 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:11:41,333 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:11:51,979 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:11:51,979 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:11:51,980 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:11:51,980 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:12:09,841 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:12:09,841 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:12:09,842 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:12:09,842 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:12:29,553 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:12:29,553 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:12:29,555 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:12:29,555 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:12:39,189 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:12:39,190 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:12:39,191 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:12:39,191 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:12:42,065 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:12:42,066 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:12:42,066 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:12:42,067 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:14:02,143 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:14:02,143 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:14:02,144 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:14:02,144 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:14:15,366 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:14:15,366 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:14:15,367 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:14:15,367 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:17:51,347 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:17:51,347 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:17:51,350 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:17:51,351 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:20:57,671 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:20:57,671 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:20:57,672 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:20:57,673 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:21:36,813 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:21:36,813 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:21:36,814 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:21:36,814 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:22:08,263 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:22:08,264 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:22:08,265 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:22:08,266 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:22:16,170 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:22:16,170 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:22:16,172 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:22:16,172 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:28:07,556 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:28:07,556 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:28:07,557 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:28:07,557 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:28:32,893 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:28:32,893 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:28:32,894 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:28:32,894 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:31:00,851 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:31:00,851 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:31:00,852 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:31:00,852 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:31:40,332 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:31:40,332 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:31:40,334 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:31:40,334 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:32:09,170 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:32:09,170 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:32:09,171 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:32:09,171 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:32:28,387 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:32:28,387 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:32:28,388 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:32:28,388 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:32:32,059 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:32:32,059 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:32:32,060 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:32:32,060 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:37:54,822 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:37:54,823 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:37:54,824 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:37:54,824 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:39:15,613 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:39:15,613 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:39:15,614 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:39:15,614 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:39:58,051 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:39:58,051 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:39:58,052 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:39:58,052 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:40:16,765 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:40:16,766 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:40:16,767 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:40:16,767 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:41:02,283 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:41:02,284 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:41:02,286 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:41:02,286 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:41:35,070 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:41:35,070 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:41:35,071 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:41:35,071 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:42:03,288 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:42:03,288 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:42:03,289 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:42:03,289 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:42:31,197 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:42:31,197 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:42:31,198 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:42:31,198 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:45:45,000 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:45:45,000 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:45:45,001 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:45:45,001 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:46:36,348 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:46:36,348 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:46:36,349 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:46:36,349 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:46:43,957 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:46:43,957 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:46:43,958 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:46:43,958 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:47:12,673 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:47:12,673 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:47:12,676 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:47:12,676 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:47:26,792 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:47:26,792 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:47:26,793 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:47:26,794 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:57:06,452 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:57:06,452 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:57:06,453 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:57:06,453 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:57:35,710 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:57:35,710 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:57:35,712 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:57:35,713 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:57:56,521 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:57:56,521 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:57:56,522 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:57:56,522 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:58:11,680 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:58:11,681 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:58:11,681 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:58:11,681 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:58:15,966 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:58:15,966 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:58:15,967 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:58:15,967 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 13:58:24,299 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:58:24,300 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 13:58:24,301 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 13:58:24,302 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:00:04,319 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:00:04,319 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:00:04,320 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:00:04,320 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:00:38,165 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:00:38,165 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:00:38,169 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:00:38,169 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:01:01,190 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:01:01,191 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:01:01,192 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:01:01,193 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:02:43,937 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:02:43,938 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:02:43,939 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:02:43,939 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:02:56,516 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:02:56,517 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:02:56,518 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:02:56,518 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:03:45,963 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:03:45,963 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:03:45,964 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:03:45,964 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:03:57,833 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:03:57,833 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:03:57,834 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:03:57,834 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:04:10,056 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:04:10,057 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:04:10,057 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:04:10,058 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:04:32,685 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:04:32,685 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:04:32,686 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:04:32,686 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:04:35,805 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:04:35,805 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:04:35,807 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:04:35,807 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:06:45,541 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:06:45,541 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:06:45,542 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:06:45,542 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:07:23,436 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:07:23,437 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:07:23,437 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:07:23,437 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:07:42,382 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:07:42,382 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:07:42,383 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:07:42,383 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:07:51,734 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:07:51,734 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:07:51,735 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:07:51,736 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:08:21,037 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:08:21,037 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:08:21,039 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:08:21,039 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:08:37,958 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:08:37,959 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:08:37,960 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:08:37,961 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:08:58,635 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:08:58,635 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:08:58,637 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:08:58,637 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:09:32,586 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:09:32,586 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:09:32,587 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:09:32,587 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:10:38,337 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:10:38,337 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:10:38,337 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:10:38,338 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:10:43,732 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:10:43,732 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:10:43,734 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:10:43,735 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:11:13,832 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:11:13,833 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:11:13,834 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:11:13,834 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:12:11,809 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:12:11,809 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:12:11,810 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:12:11,810 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:12:52,446 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:12:52,447 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:12:52,447 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:12:52,447 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:13:32,429 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:13:32,429 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:13:32,431 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:13:32,431 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:14:11,912 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:14:11,912 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:14:11,913 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:14:11,913 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:14:40,586 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:14:40,587 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:14:40,588 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:14:40,588 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:15:08,117 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:15:08,117 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:15:08,118 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:15:08,118 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:15:21,006 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:15:21,006 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:15:21,008 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:15:21,008 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:16:02,334 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:16:02,334 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:16:02,335 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:16:02,336 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:17:46,912 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:17:46,912 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:17:46,914 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:17:46,914 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:18:26,067 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:18:26,067 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:18:26,068 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:18:26,068 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:18:42,561 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:18:42,561 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:18:42,562 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:18:42,562 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:18:49,521 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:18:49,522 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:18:49,523 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:18:49,523 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:19:53,545 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:19:53,545 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:19:53,546 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:19:53,546 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:19:55,756 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:19:55,756 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:19:55,757 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:19:55,757 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:20:04,461 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:20:04,461 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:20:04,463 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:20:04,463 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:20:28,712 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:20:28,712 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:20:28,713 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:20:28,713 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:21:02,976 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:21:02,976 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:21:02,977 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:21:02,977 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:21:11,525 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:21:11,525 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:21:11,526 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:21:11,526 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:21:22,980 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:21:22,980 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:21:22,981 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:21:22,981 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:21:55,346 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:21:55,346 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:21:55,347 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:21:55,348 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:22:02,882 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:22:02,882 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:22:02,882 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:22:02,883 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:22:10,968 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:22:10,968 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:22:10,969 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:22:10,969 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:22:25,780 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:22:25,780 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:22:25,781 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:22:25,782 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:22:35,858 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:22:35,858 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:22:35,859 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:22:35,859 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:23:00,446 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:23:00,446 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:23:00,447 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:23:00,447 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:23:32,226 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:23:32,226 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:23:32,227 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:23:32,227 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:23:48,190 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:23:48,190 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:23:48,191 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:23:48,191 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:23:51,533 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:23:51,533 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:23:51,534 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:23:51,534 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:24:10,228 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:24:10,228 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:24:10,229 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:24:10,229 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:24:26,430 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:24:26,431 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:24:26,432 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:24:26,432 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:25:34,003 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:25:34,004 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:25:34,005 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:25:34,006 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:25:43,307 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:25:43,307 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:25:43,308 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:25:43,308 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:26:32,358 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:26:32,359 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:26:32,360 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:26:32,360 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:26:43,045 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:26:43,045 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:26:43,046 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:26:43,046 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:27:08,427 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:27:08,427 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:27:08,428 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:27:08,428 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:27:22,183 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:27:22,183 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:27:22,185 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:27:22,185 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:27:37,366 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:27:37,366 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:27:37,367 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:27:37,367 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:27:59,197 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:27:59,197 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:27:59,198 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:27:59,198 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:28:17,664 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:28:17,664 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:28:17,665 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:28:17,665 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:28:31,089 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:28:31,089 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:28:31,091 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:28:31,091 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:28:36,703 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:28:36,703 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:28:36,704 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:28:36,704 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:29:13,927 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:29:13,928 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:29:13,929 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:29:13,929 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:29:16,897 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:29:16,897 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:29:16,898 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:29:16,898 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:30:13,595 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:30:13,596 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:30:13,597 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:30:13,597 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:30:23,086 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:30:23,087 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:30:23,088 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:30:23,088 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:30:40,140 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:30:40,140 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:30:40,142 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:30:40,142 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:30:57,643 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:30:57,643 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:30:57,644 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:30:57,644 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:34:09,591 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:34:09,591 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:34:09,593 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:34:09,593 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:34:23,938 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:34:23,938 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:34:23,939 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:34:23,939 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:34:37,309 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:34:37,309 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:34:37,309 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:34:37,310 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:34:56,892 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:34:56,892 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:34:56,893 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:34:56,893 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:35:15,677 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:35:15,678 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:35:15,679 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:35:15,679 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:35:37,007 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:35:37,007 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:35:37,008 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:35:37,008 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:36:11,860 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:36:11,860 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:36:11,861 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:36:11,861 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:36:37,660 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:36:37,660 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:36:37,661 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:36:37,662 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:36:39,230 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:36:39,230 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:36:39,231 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:36:39,231 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:36:59,349 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:36:59,350 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:36:59,351 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:36:59,351 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:38:06,199 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:38:06,199 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:38:06,200 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:38:06,200 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:38:14,608 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:38:14,609 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:38:14,610 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:38:14,610 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:38:22,220 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:38:22,220 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:38:22,221 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:38:22,221 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:38:42,405 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:38:42,406 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:38:42,407 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:38:42,408 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:38:48,543 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:38:48,543 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:38:48,544 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:38:48,545 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:39:07,227 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:39:07,227 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:39:07,228 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:39:07,228 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:39:10,858 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:39:10,858 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:39:10,859 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:39:10,859 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:39:13,147 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:39:13,147 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:39:13,148 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:39:13,148 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:39:22,503 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:39:22,504 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:39:22,504 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:39:22,504 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:40:27,729 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:40:27,729 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:40:27,730 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:40:27,730 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:40:57,368 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:40:57,368 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:40:57,369 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:40:57,369 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:41:21,853 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:41:21,853 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:41:21,855 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:41:21,855 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:41:35,241 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:41:35,241 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:41:35,243 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:41:35,243 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:41:52,817 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:41:52,818 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:41:52,819 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:41:52,819 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:41:56,441 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:41:56,441 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:41:56,442 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:41:56,443 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:42:17,201 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:42:17,201 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:42:17,202 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:42:17,202 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:42:41,573 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:42:41,573 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:42:41,574 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:42:41,574 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:43:17,235 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:43:17,235 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:43:17,236 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:43:17,236 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:43:34,084 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:43:34,085 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:43:34,087 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:43:34,087 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:43:39,959 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:43:39,959 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:43:39,960 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:43:39,960 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:43:59,108 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:43:59,108 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:43:59,109 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:43:59,109 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:44:01,159 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:44:01,159 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:44:01,160 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:44:01,161 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:44:24,714 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:44:24,714 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:44:24,715 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:44:24,715 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:49:51,234 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:49:51,234 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:49:51,235 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:49:51,235 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:50:39,277 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:50:39,277 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:50:39,279 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:50:39,279 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:50:50,901 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:50:50,901 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:50:50,902 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:50:50,902 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:52:16,720 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:52:16,720 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:52:16,721 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:52:16,721 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:54:05,349 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:54:05,349 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:54:05,350 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:54:05,350 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:54:14,824 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:54:14,824 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:54:14,825 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:54:14,825 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:54:38,847 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:54:38,847 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:54:38,848 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:54:38,848 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:55:01,605 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:55:01,605 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:55:01,607 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:55:01,607 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:55:53,731 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:55:53,731 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:55:53,732 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:55:53,732 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:56:56,228 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:56:56,228 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:56:56,229 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:56:56,229 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:57:23,079 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:57:23,079 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:57:23,080 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:57:23,080 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:57:42,791 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:57:42,791 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:57:42,792 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:57:42,792 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:58:11,737 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:58:11,737 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:58:11,739 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:58:11,739 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:58:30,976 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:58:30,977 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:58:30,978 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:58:30,978 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:58:59,967 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:58:59,967 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:58:59,969 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:58:59,969 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:59:13,525 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:59:13,526 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:59:13,527 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:59:13,527 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:59:15,061 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:59:15,062 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:59:15,064 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:59:15,065 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 14:59:58,783 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:59:58,783 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 14:59:58,785 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 14:59:58,785 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:00:23,004 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:00:23,004 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:00:23,005 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:00:23,006 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:00:25,709 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:00:25,709 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:00:25,710 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:00:25,710 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:00:43,690 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:00:43,690 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:00:43,691 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:00:43,691 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:01:06,853 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:01:06,853 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:01:06,854 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:01:06,854 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:01:24,683 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:01:24,683 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:01:24,685 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:01:24,685 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:01:51,345 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:01:51,345 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:01:51,346 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:01:51,346 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:02:06,449 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:02:06,449 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:02:06,450 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:02:06,450 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:02:55,116 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:02:55,117 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:02:55,118 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:02:55,119 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:03:25,639 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:03:25,639 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:03:25,639 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:03:25,640 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:03:38,166 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:03:38,167 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:03:38,168 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:03:38,168 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:03:59,122 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:03:59,122 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:03:59,123 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:03:59,123 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:05:45,587 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:05:45,588 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:05:45,588 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:05:45,588 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:06:12,819 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:06:12,819 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:06:12,820 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:06:12,820 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:06:39,479 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:06:39,480 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:06:39,480 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:06:39,481 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:06:45,721 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:06:45,721 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:06:45,722 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:06:45,722 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:07:01,212 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:07:01,212 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:07:01,213 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:07:01,213 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:08:10,198 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:08:10,198 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:08:10,199 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:08:10,199 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:08:33,054 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:08:33,054 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:08:33,055 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:08:33,056 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:08:44,900 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:08:44,900 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:08:44,901 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:08:44,901 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:09:48,126 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:09:48,126 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:09:48,127 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:09:48,127 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:10:15,879 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:10:15,880 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:10:15,881 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:10:15,881 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:11:31,387 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:11:31,388 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:11:31,389 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:11:31,389 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:14:03,759 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:14:03,760 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:14:03,761 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:14:03,761 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:14:18,179 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:14:18,179 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:14:18,180 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:14:18,180 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:15:15,215 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:15:15,215 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:15:15,216 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:15:15,216 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:15:32,889 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:15:32,889 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:15:32,890 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:15:32,890 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:16:10,593 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:16:10,593 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:16:10,594 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:16:10,594 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:17:01,968 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:17:01,968 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:17:01,969 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:17:01,969 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:17:07,131 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:17:07,131 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:17:07,132 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:17:07,132 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:17:22,720 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:17:22,720 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:17:22,721 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:17:22,721 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:18:04,605 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:18:04,606 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:18:04,608 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:18:04,608 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:18:48,981 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:18:48,981 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:18:48,982 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:18:48,982 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:19:13,808 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:19:13,808 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:19:13,809 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:19:13,809 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:22:10,520 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:22:10,521 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:22:10,522 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:22:10,522 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:22:23,096 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:22:23,096 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:22:23,097 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:22:23,097 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:24:10,029 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:24:10,029 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:24:10,030 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:24:10,030 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:29:38,055 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:29:38,055 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:29:38,056 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:29:38,056 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:36:16,499 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:36:16,500 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:36:16,501 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:36:16,501 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:36:32,190 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:36:32,190 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:36:32,191 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:36:32,191 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:36:49,234 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:36:49,234 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:36:49,235 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:36:49,236 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:37:57,640 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:37:57,640 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:37:57,641 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:37:57,641 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:38:02,175 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:38:02,176 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:38:02,177 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:38:02,177 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:38:09,392 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:38:09,392 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:38:09,393 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:38:09,393 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:38:31,666 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:38:31,666 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:38:31,667 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:38:31,667 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:39:08,703 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:39:08,703 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:39:08,705 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:39:08,705 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:39:50,729 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:39:50,729 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:39:50,730 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:39:50,730 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:40:12,237 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:40:12,237 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:40:12,238 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:40:12,238 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:40:36,973 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:40:36,973 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:40:36,974 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:40:36,974 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:40:58,067 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:40:58,067 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:40:58,068 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:40:58,068 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:41:55,197 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:41:55,197 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:41:55,198 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:41:55,198 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:42:25,705 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:42:25,705 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:42:25,706 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:42:25,706 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:43:13,832 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:43:13,832 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:43:13,833 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:43:13,833 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:43:20,816 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:43:20,816 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:43:20,818 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:43:20,818 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:44:27,784 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:44:27,784 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:44:27,785 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:44:27,785 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:46:08,664 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:46:08,664 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:46:08,665 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:46:08,665 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:49:01,094 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:49:01,094 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:49:01,096 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:49:01,096 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:49:32,712 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:49:32,712 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:49:32,713 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:49:32,713 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:50:00,666 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:50:00,667 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:50:00,667 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:50:00,667 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:50:42,233 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:50:42,234 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:50:42,234 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:50:42,235 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:51:37,324 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:51:37,325 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:51:37,328 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:51:37,328 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:52:21,227 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:52:21,227 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:52:21,228 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:52:21,228 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:52:50,211 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:52:50,211 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:52:50,213 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:52:50,213 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:53:15,560 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:53:15,560 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:53:15,561 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:53:15,561 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:53:29,327 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:53:29,327 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:53:29,329 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:53:29,329 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:54:12,450 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:54:12,450 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:54:12,451 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:54:12,451 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:54:35,198 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:54:35,199 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:54:35,200 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:54:35,201 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:55:06,522 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:55:06,522 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:55:06,523 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:55:06,523 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:55:35,267 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:55:35,267 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:55:35,268 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:55:35,268 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:55:43,496 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:55:43,496 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:55:43,498 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:55:43,498 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:55:58,863 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:55:58,863 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:55:58,864 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:55:58,864 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 15:58:01,767 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:58:01,767 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 15:58:01,769 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 15:58:01,769 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:00:57,622 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:00:57,623 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:00:57,624 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:00:57,624 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:01:54,837 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:01:54,837 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:01:54,838 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:01:54,838 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:02:03,960 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:02:03,960 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:02:03,962 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:02:03,962 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:02:37,285 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:02:37,285 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:02:37,286 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:02:37,286 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:03:06,595 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:03:06,595 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:03:06,599 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:03:06,599 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:04:33,308 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:04:33,308 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:04:33,310 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:04:33,310 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:04:46,679 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:04:46,679 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:04:46,682 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:04:46,682 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:05:28,010 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:05:28,010 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:05:28,011 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:05:28,011 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:10:29,879 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:10:29,879 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:10:29,880 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:10:29,881 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:14:58,144 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:14:58,144 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:14:58,145 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:14:58,145 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:16:03,422 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:16:03,422 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:16:03,423 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:16:03,423 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:17:10,628 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:17:10,628 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:17:10,629 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:17:10,629 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:18:03,602 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:18:03,602 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:18:03,603 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:18:03,603 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:18:46,755 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:18:46,755 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:18:46,756 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:18:46,756 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:18:58,667 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:18:58,667 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:18:58,668 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:18:58,668 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:19:16,513 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:19:16,513 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:19:16,514 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:19:16,514 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:21:34,255 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:21:34,255 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:21:34,256 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:21:34,256 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:21:49,905 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:21:49,905 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:21:49,906 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:21:49,907 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:26:01,757 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:26:01,757 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:26:01,758 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:26:01,758 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:26:22,098 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:26:22,098 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:26:22,100 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:26:22,100 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:26:33,824 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:26:33,825 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:26:33,825 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:26:33,826 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:27:10,303 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:27:10,303 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:27:10,304 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:27:10,304 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:27:22,182 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:27:22,182 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:27:22,183 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:27:22,183 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-17 16:27:58,986 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:27:58,986 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/main/resources
+2016-03-17 16:27:58,987 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-17 16:27:58,987 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/shrey/Documents/Hike/hike-stealth/src/test/resources
+2016-03-18 13:38:56,422 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/help,null}

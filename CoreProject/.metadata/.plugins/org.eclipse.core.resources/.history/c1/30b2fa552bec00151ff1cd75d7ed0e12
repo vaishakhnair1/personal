@@ -1,0 +1,95 @@
+package com.hike.stealth.core;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.Socket;
+import java.util.Date;
+
+import com.hike.stealth.controller.HttpRequestController;
+import com.hike.stealth.request.HttpServletRequest;
+
+public class HttpRequestProcessor implements Runnable{
+
+	private Socket socket;
+	
+	public HttpRequestProcessor(Socket socket){
+		this.socket = socket;
+	}
+	
+	public void run() {
+		InputStreamReader isr = null;;
+		BufferedReader reader = null;
+		try {
+			isr = new InputStreamReader(socket.getInputStream());
+			reader = new BufferedReader(isr); 
+			String result = parseAndReturnResult(reader);
+			Date today = new Date(); 
+			String httpResponse = "HTTP/1.1 200 OK\r\n\r\n" + today + "\r\n\r\n"; 
+			httpResponse = httpResponse + "Content-Type: application/json\r\n\r\n";
+			httpResponse = httpResponse + "Content-Length: " + result.length() + "\r\n\r\n";
+			httpResponse = httpResponse + result;
+			socket.getOutputStream().write(httpResponse.getBytes("UTF-8"));
+			
+		} catch (IOException e) {
+			System.out.println(e);
+		}  finally{
+			try {
+				reader.close();
+				isr.close();
+				socket.close();
+			} catch (IOException e) {
+				System.out.println(e);
+			}
+			
+		}
+	}
+	
+	private String parseAndReturnResult(BufferedReader reader){
+		String line;
+		boolean firstLine = true;
+		boolean postRequest = false;
+		try {
+			line = reader.readLine();
+			while (!line.isEmpty()) { 
+				System.out.println(line); 
+				line = reader.readLine();
+				if(firstLine){
+					if(line.contains("GET")){
+						firstLine = false;
+						if(line.contains("server-status")){
+							return HttpRequestController.getInstance().getServerStatus();
+						}else if(line.contains("sleep")){
+							String[] uriSplit = line.split(" ");
+							String queryParam = uriSplit[1].replace("/sleep?", "");
+							HttpServletRequest request = new HttpServletRequest();
+							String[] queryParams = queryParam.split("&");
+							for(String param : queryParams){
+								String[] params = param.split("=");
+								request.setParam(params[0], params[1]);
+							}
+							return HttpRequestController.getInstance().sleepAndGetStatus(request);
+						}else{
+							return "{\"stat\":\"Invalid URL\"}";
+						}
+					}else if(line.contains("POST")){
+						firstLine = false;
+						if(line.contains("kill")){
+							postRequest = true;
+						}else{
+							return "{\"stat\":\"Invalid URL\"}";
+						}
+					}else{
+						return "{\"stat\":\"Invalid Http Method\"}";
+					}	
+				}
+				
+			}
+		} catch (Exception e) {
+			System.out.println(e);
+			return "{\"stat\":\"Invalid Content In Request\"}";
+		}
+		return "EMPTY";
+	}
+
+}

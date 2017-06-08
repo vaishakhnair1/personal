@@ -1,0 +1,14 @@
+package com.hike.stealth.service;
+
+import java.util.Map;
+
+public interface IStealthDataService {
+
+	public void saveData(Integer connectionId, Long currentTime);
+	
+	public void removeData(Integer connectionId);
+	
+	public void getDataByConnectionId(Integer connectionId);
+	
+	public Map<Integer, Long> getAllConnectionData();
+}

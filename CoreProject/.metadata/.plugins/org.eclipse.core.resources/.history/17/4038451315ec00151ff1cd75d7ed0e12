@@ -1,0 +1,5 @@
+package com.hike.stealth.core;
+
+public class HttpSocket {
+
+}

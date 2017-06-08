@@ -1,0 +1,5 @@
+package com.hike.stealth.service;
+
+public interface IStealthDataService {
+
+}

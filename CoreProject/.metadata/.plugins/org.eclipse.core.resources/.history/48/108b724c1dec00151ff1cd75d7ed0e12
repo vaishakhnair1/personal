@@ -1,0 +1,36 @@
+package com.hike.stealth.service.impl;
+
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+
+import com.hike.stealth.service.IStealthDataService;
+
+public class StealthDataService implements IStealthDataService{
+
+	private static final StealthDataService stealthDataService = new StealthDataService();
+	private static final Map<Integer, Long> connectionDataMap = new ConcurrentHashMap<Integer, Long>();
+    
+	private StealthDataService(){}
+	
+	
+	
+	@Override
+	public void saveData(Integer connectionId, Long currentTime){
+		connectionDataMap.put(connectionId, currentTime);
+	}
+	
+	@Override
+	public void removeData(Integer connectionId){
+		connectionDataMap.remove(connectionId);
+	}
+	
+	@Override
+	public void getDataByConnectionId(Integer connectionId){
+		connectionDataMap.get(connectionId);
+	}
+	
+	@Override
+	public Map<Integer, Long> getAllConnectionData(){
+		return connectionDataMap;
+	}
+}

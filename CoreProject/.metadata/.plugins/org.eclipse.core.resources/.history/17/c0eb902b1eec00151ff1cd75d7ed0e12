@@ -1,0 +1,14 @@
+package com.hike.stealth.pojo;
+
+public class ThreadInfo {
+
+	private Long currentTime;
+	private Long threadId;
+	
+	public ThreadInfo(Long currentTime, Long threadId){
+		this.currentTime = currentTime;
+		this.threadId = threadId;
+	}
+	
+	
+}
